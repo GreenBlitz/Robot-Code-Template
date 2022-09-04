@@ -1,4 +1,4 @@
-package edu.greenblitz.pegasus;
+package edu.greenblitz.robot;
 
 
 import edu.greenblitz.gblib.hid.SmartJoystick;
